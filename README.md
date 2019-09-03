@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./nug.jpg" width="800">
+</p>
+
 This is my documentation on how to install a small linux OS that solves the
 following needs:
 

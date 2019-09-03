@@ -56,10 +56,10 @@ like alpine.
 
 #### Download Alpine
 
-Just go [here](https://alpinelinux.org/downloads/) and select 'standard' for x86.
+Just go [here](https://alpinelinux.org/downloads/) and select 'standard' for x86 (tested on alpine-standard-3.10.2-x86.iso).
 Needed a USB stick that is 700MB or bigger. Burned with a machine running `sudo
 gnome-fdisk`. Use the legacy boot mode for the NUC (UEFI may work but I haven't
-tried)
+tried). Was running kernel 4.19.67-0-vanilla i686.
 
 #### Install Alpine
 

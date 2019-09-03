@@ -1,5 +1,7 @@
+# Intel NUC Samba Server
+
 <p align="center">
-<img src="./nuc.jpg" width="800">
+<img src="./nuc.jpg" width="400">
 </p>
 
 This is my documentation on how to install a small linux OS that solves the

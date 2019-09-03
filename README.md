@@ -4,6 +4,8 @@
 <img src="./nuc.jpg" width="400">
 </p>
 
+## Motive and Background
+
 This is my documentation on how to install a small linux OS that solves the
 following needs:
 
@@ -49,6 +51,8 @@ nicer than the arch install that left about 250MB left over even with just
 openssh installed. Nice! And it looks like it's got a nice selection of mirrors
 and a package manager, `apk` at your disposal. Not sure why more people don't
 like alpine.
+
+## Installation
 
 #### Download Alpine
 

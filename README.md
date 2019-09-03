@@ -48,7 +48,8 @@ like alpine.
 
 Just go [here](https://alpinelinux.org/downloads/) and select 'standard' for x86.
 Needed a USB stick that is 700MB or bigger. Burned with a machine running `sudo
-gnome-fdisk`.
+gnome-fdisk`. Use the legacy boot mode for the NUC (UEFI may work but I haven't
+tried)
 
 #### Install Alpine
 

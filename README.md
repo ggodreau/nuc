@@ -115,7 +115,7 @@ Loosely following [these instructions](https://wiki.alpinelinux.org/wiki/Install
     apk add samba
     ```
 
-- Set up `smb.conf`
+- Set up `/etc/samba/smb.conf`
 
     ```
     [global]
